@@ -1,66 +1,87 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,45:0066FF,75:00C6FF,100:00FF88&height=240&section=header&text=ALBERTO%20INGA&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Technology%20%7C%20Innovation%20%7C%20Vision&descAlignY=59&descSize=19" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0080,35:7928CA,70:007CF0,100:00DFD8&height=220&section=header&text=Alberto&fontSize=65&fontColor=FFFFFF&animation=twinkling&fontAlignY=42&desc=Curious%20mind%20%E2%80%A2%20Big%20ideas%20%E2%80%A2%20Building%20my%20own%20path&descSize=18&descAlignY=67"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=I+think+beyond+what+already+exists.;Turning+curiosity+into+direction.;Building+for+impact%2C+not+just+attention.;Creating+the+future+one+idea+at+a+time." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=23&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=Tech%2C+ideas+and+a+little+chaos+%F0%9F%8C%88;I+build%2C+break%2C+learn+and+try+again;Dreaming+big.+Starting+now.;Creating+my+own+version+of+the+future+%E2%9A%A1" />
 
-<br>
+<br><br>
 
-![Vision](https://img.shields.io/badge/VISION-7F00FF?style=for-the-badge)
-![Technology](https://img.shields.io/badge/TECHNOLOGY-0066FF?style=for-the-badge)
-![Innovation](https://img.shields.io/badge/INNOVATION-00AEEF?style=for-the-badge)
-![Growth](https://img.shields.io/badge/GROWTH-00C896?style=for-the-badge)
+<img src="https://img.shields.io/badge/STAY-CURIOUS-FF0080?style=for-the-badge">
+<img src="https://img.shields.io/badge/DREAM-BIGGER-7928CA?style=for-the-badge">
+<img src="https://img.shields.io/badge/KEEP-BUILDING-007CF0?style=for-the-badge">
+<img src="https://img.shields.io/badge/NEVER-SETTLE-00BFA6?style=for-the-badge">
 
 </div>
 
-## 01 — WHO I AM
+<br>
 
-I am a university student with an ambitious vision for my future.
+<h2 align="center">🚀 About me, without the boring part</h2>
 
-I am not interested in simply following technological change. I want to understand it, contribute to it, and eventually help shape what comes next.
+<p align="center">
+I'm a university student from Ecuador with a curious mind and ambitious goals.
+<br><br>
+I enjoy exploring technology, turning ideas into real projects,  
+and learning through experiments, mistakes, and unexpected discoveries.
+<br><br>
+I'm not here to pretend I know everything.<br>
+I'm here to become someone capable of building almost anything.
+</p>
 
-My journey is driven by curiosity, discipline, creativity, and the determination to transform ideas into meaningful projects.
+<br>
 
-## 02 — THE FRONTIERS I AM EXPLORING
+<h2 align="center">🪐 My curiosity map</h2>
 
 <div align="center">
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-0066FF?style=for-the-badge&logo=github&logoColor=white)
-![Cloud Technology](https://img.shields.io/badge/Cloud_Technology-00A4EF?style=for-the-badge&logo=icloud&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=00FF9C)
-![Data](https://img.shields.io/badge/Data_%26_Automation-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white)
-![Digital Products](https://img.shields.io/badge/Digital_Products-FF0080?style=for-the-badge&logo=producthunt&logoColor=white)
+<img src="https://img.shields.io/badge/Artificial_Intelligence-FF0080?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Software-7928CA?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Digital_Products-007CF0?style=for-the-badge&logo=producthunt&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/Automation-00BFA6?style=for-the-badge&logo=probot&logoColor=white">
+<img src="https://img.shields.io/badge/Cloud-00AEEF?style=for-the-badge&logo=icloud&logoColor=white">
+<img src="https://img.shields.io/badge/Cybersecurity-222222?style=for-the-badge&logo=hackthebox&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Creative_Technology-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white">
 
 </div>
 
-## 03 — WHAT I WANT TO CREATE
+<br>
 
-**Intelligent solutions** that solve real problems and improve everyday experiences.
+<h2 align="center">🎯 What I'm chasing</h2>
 
-**Digital products** capable of growing beyond a classroom, a single project, or one specific market.
+<p align="center">
+💡 Ideas worth turning into reality
+<br><br>
+🛠️ Projects that teach me something new
+<br><br>
+🌍 Technology capable of making a real difference
+<br><br>
+🚀 Opportunities created instead of simply awaited
+</p>
 
-**Technology-driven opportunities** that connect innovation, creativity, business, and meaningful impact.
-
-**Projects with identity**, created with intention instead of copying what already exists.
-
-## 04 — MY CURRENT MISSION
-
-I am building the knowledge, mindset, and discipline required to become a versatile technology professional and future creator.
-
-Every project is an opportunity to experiment, improve, and move closer to something greater.
+<br>
 
 <div align="center">
 
-<br>
-
-### THINK BEYOND THE OBVIOUS  
-### BUILD BEYOND EXPECTATIONS
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="520">
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Josuerti&label=PROFILE+VIEWS&color=7F00FF&style=for-the-badge)
+<h2>Current status</h2>
+
+<img src="https://img.shields.io/badge/Building_my_next_version-⚡-FF0080?style=for-the-badge">
+
+<br><br>
+
+<b>Think differently. Create fearlessly. Keep moving.</b>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Josuerti&label=VISITORS&color=7928CA&style=for-the-badge">
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,35:00C6FF,65:0066FF,100:7F00FF&height=130&section=footer" />
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:00DFD8,35:007CF0,70:7928CA,100:FF0080&height=100&section=footer"/>
