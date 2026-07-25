@@ -1,95 +1,66 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E293B,70:0F766E,100:7C3AED&height=240&section=header&text=%20&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Ideas%20%7C%20Technology%20%7C%20Growth&descAlignY=50&descSize=22" />
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:151515&height=120&section=header"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=800&color=7CFF6B&center=true&vCenter=true&width=900&lines=Welcome+to+my+digital+playground.;Ideas+enter.+Projects+come+out.;Learning+by+building%2C+breaking+and+rebuilding.;Something+interesting+is+always+loading..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=700&color=5EEAD4&center=true&vCenter=true&width=900&lines=I+think+beyond+what+already+exists.;Turning+curiosity+into+direction.;Building+for+impact%2C+not+just+attention.;Creating+the+future+one+idea+at+a+time." alt="Animated introduction" />
 
 <br>
 
-<code>curiosity.exe</code>
-<code>ideas.exe</code>
-<code>future.exe</code>
+![Vision](https://img.shields.io/badge/VISION-7C3AED?style=for-the-badge)
+![Technology](https://img.shields.io/badge/TECHNOLOGY-0F766E?style=for-the-badge)
+![Innovation](https://img.shields.io/badge/INNOVATION-14B8A6?style=for-the-badge)
+![Growth](https://img.shields.io/badge/GROWTH-334155?style=for-the-badge)
 
 </div>
 
-<br>
+## 01 — WHO I AM
 
-<h2 align="center">This profile is a laboratory</h2>
+I am a university student with an ambitious vision for my future.
 
-<p align="center">
-A place where ideas become experiments,<br>
-experiments become projects,<br>
-and every project becomes a new lesson.
-</p>
+I am not interested in simply following technological change. I want to understand it, contribute to it, and eventually help shape what comes next.
 
-<p align="center">
-I am exploring the possibilities of technology,<br>
-not to follow every trend,<br>
-but to discover what I can create with it.
-</p>
+My journey is driven by curiosity, discipline, creativity, and the determination to transform ideas into meaningful projects.
 
-<br>
-
-<h2 align="center">Currently exploring</h2>
+## 02 — THE FRONTIERS I AM EXPLORING
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-101010?style=for-the-badge&logo=openai&logoColor=7CFF6B">
-<img src="https://img.shields.io/badge/Software_Development-101010?style=for-the-badge&logo=github&logoColor=7CFF6B">
-<img src="https://img.shields.io/badge/Automation-101010?style=for-the-badge&logo=probot&logoColor=7CFF6B">
-
-<br>
-
-<img src="https://img.shields.io/badge/Digital_Products-101010?style=for-the-badge&logo=producthunt&logoColor=7CFF6B">
-<img src="https://img.shields.io/badge/Creative_Technology-101010?style=for-the-badge&logo=googlechrome&logoColor=7CFF6B">
-<img src="https://img.shields.io/badge/Entrepreneurship-101010?style=for-the-badge&logo=rocket&logoColor=7CFF6B">
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-0F766E?style=for-the-badge&logo=github&logoColor=white)
+![Cloud Technology](https://img.shields.io/badge/Cloud_Technology-06B6D4?style=for-the-badge&logo=icloud&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=5EEAD4)
+![Data](https://img.shields.io/badge/Data_%26_Automation-334155?style=for-the-badge&logo=databricks&logoColor=white)
+![Digital Products](https://img.shields.io/badge/Digital_Products-14B8A6?style=for-the-badge&logo=producthunt&logoColor=white)
 
 </div>
 
-<br><br>
+## 03 — WHAT I WANT TO CREATE
 
-<table align="center">
-<tr>
-<td align="center" width="250">
+**Intelligent solutions** that solve real problems and improve everyday experiences.
 
-### THINK
+**Digital products** capable of growing beyond a classroom, a single project, or one specific market.
 
-Question what already exists.
+**Technology-driven opportunities** that connect innovation, creativity, business, and meaningful impact.
 
-</td>
-<td align="center" width="250">
+**Projects with identity**, created with intention instead of copying what already exists.
 
-### CREATE
+## 04 — MY CURRENT MISSION
 
-Turn ideas into something real.
+I am building the knowledge, mindset, and discipline required to become a versatile technology professional and future creator.
 
-</td>
-<td align="center" width="250">
-
-### EVOLVE
-
-Improve with every attempt.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<h2 align="center">My current objective</h2>
-
-<p align="center">
-To build the skills, discipline and vision required<br>
-to create projects that are useful, original and capable of growing.
-</p>
-
-<br>
+Every project is an opportunity to experiment, improve, and move closer to something greater.
 
 <div align="center">
 
-```text
-STATUS
-████████████████░░░░  Always learning
+<br>
 
-NEXT PROJECT
-████████░░░░░░░░░░░░  Loading...
+### THINK BEYOND THE OBVIOUS  
+### BUILD BEYOND EXPECTATIONS
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Josuerti&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,35:0F766E,70:1E293B,100:0F172A&height=130&section=footer" />
