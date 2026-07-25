@@ -1,43 +1,52 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:F97316&height=150&section=header"/>
+## Hola, soy Alberto 👋
 
-Hola, soy Alberto 👋
+<table>
+<tr>
+<td width="58%">
 
-Soy estudiante universitario y me gusta descubrir cómo la tecnología puede convertir una idea sencilla en algo útil, creativo y con potencial.
+Soy estudiante universitario y disfruto aprender tecnología mientras convierto ideas en proyectos.
 
-<div align="center">
+Me gusta experimentar, probar cosas nuevas y entender cómo funcionan. Algunas veces el código funciona a la primera y otras veces comienza una larga conversación con el error.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Aprendiendo+mientras+construyo;Probando+ideas+sin+miedo+a+equivocarme;Un+proyecto+a+la+vez;Siempre+hay+algo+nuevo+por+descubrir" />
+Actualmente estoy construyendo mi camino dentro del mundo tecnológico, un proyecto a la vez.
 
-<br><br>
+</td>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Programando">
+<td width="42%" align="center">
 
-</div>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="270" alt="Gato programando">
 
-## Un poco sobre mí
-
-Me interesa aprender, experimentar y crear proyectos que tengan utilidad más allá de una tarea.
-
-No tengo todo resuelto y tampoco busco aparentarlo. Este perfil muestra mi proceso, mis avances y las ideas que voy convirtiendo en proyectos.
-
-## Cosas que estoy explorando
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Desarrollo_de_software-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8">
-<img src="https://img.shields.io/badge/Productos_digitales-0E7490?style=for-the-badge&logo=producthunt&logoColor=white">
-<img src="https://img.shields.io/badge/Automatización-F97316?style=for-the-badge&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/Nuevas_ideas-334155?style=for-the-badge&logo=googlegemini&logoColor=white">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=2F81F7&center=true&vCenter=true&width=750&lines=Aprendiendo+mientras+construyo;Convirtiendo+ideas+en+proyectos;Probando%2C+fallando+y+mejorando;Siempre+curioso%2C+nunca+quieto" alt="Texto animado">
 
 </div>
 
-## Por aquí encontrarás
+### Lo que me interesa
 
-Proyectos universitarios, experimentos, pequeños programas y algunas ideas que todavía están tomando forma.
+<div align="center">
 
-```text
-Estado actual:
+<img src="https://img.shields.io/badge/Desarrollo-161B22?style=for-the-badge&logo=github&logoColor=2F81F7">
+<img src="https://img.shields.io/badge/Tecnología-161B22?style=for-the-badge&logo=googlechrome&logoColor=F78166">
+<img src="https://img.shields.io/badge/Automatización-161B22?style=for-the-badge&logo=githubactions&logoColor=3FB950">
+<img src="https://img.shields.io/badge/Productos_digitales-161B22?style=for-the-badge&logo=producthunt&logoColor=DB61A2">
 
-Aprendiendo        ████████████████████
-Creando            ███████████████░░░░░
-Organizando todo   ███████░░░░░░░░░░░░░
+</div>
+
+### Por aquí encontrarás
+
+Proyectos universitarios, experimentos, programas pequeños y algunas ideas que poco a poco van tomando forma.
+
+También encontrarás errores. Muchos errores. Pero cada uno termina enseñándome algo nuevo.
+
+```javascript
+const alberto = {
+  curiosidad: true,
+  ideas: "demasiadas",
+  proyectosTerminados: "trabajando en eso...",
+  cafeDisponible: true
+};
