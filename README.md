@@ -1,80 +1,43 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E293B,70:0F766E,100:7C3AED&height=240&section=header&text=Josu%C3%A9%20Ram%C3%ADrez&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Ecuador&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:F97316&height=150&section=header"/>
+
+Hola, soy Alberto 👋
+
+Soy estudiante universitario y me gusta descubrir cómo la tecnología puede convertir una idea sencilla en algo útil, creativo y con potencial.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+student+%40+UCSG;Building+products+from+idea+to+deploy;Currently+shipping+Ecuascore+%26+eFootball+Tournament+Platform" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Aprendiendo+mientras+construyo;Probando+ideas+sin+miedo+a+equivocarme;Un+proyecto+a+la+vez;Siempre+hay+algo+nuevo+por+descubrir" />
 
-<br>
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Programando">
 
 </div>
 
----
+## Un poco sobre mí
 
-## 👨‍💻 About me
+Me interesa aprender, experimentar y crear proyectos que tengan utilidad más allá de una tarea.
 
-I'm a Computer Science Engineering student at **Universidad Católica de Santiago de Guayaquil (UCSG)**, based in Milagro, Ecuador. I like turning ideas into working products end to end — from the first prototype to something people can actually use.
+No tengo todo resuelto y tampoco busco aparentarlo. Este perfil muestra mi proceso, mis avances y las ideas que voy convirtiendo en proyectos.
 
-I've worked in cashier/banking-correspondent and administrative roles before moving fully into software, which keeps me grounded in *who the user actually is* when I build.
-
----
-
-## 🚀 Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚽ Ecuascore
-Football statistics platform focused on **Ecuadorian LigaPro**, inspired by Promiedos. Live scores, standings, and match data for a market with almost no dedicated tooling.
-
-`Status:` functional prototype — next step is building an audience.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏆 eFootball Tournament Platform
-Full-stack tournament management app for eFootball competitions: player registration with anti-duplicate protection, automated single-elimination brackets, and a dark stadium-themed UI.
-
-`Stack:` Node.js · SQLite
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech stack
+## Cosas que estoy explorando
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel_Automation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<img src="https://img.shields.io/badge/Desarrollo_de_software-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/Productos_digitales-0E7490?style=for-the-badge&logo=producthunt&logoColor=white">
+<img src="https://img.shields.io/badge/Automatización-F97316?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Nuevas_ideas-334155?style=for-the-badge&logo=googlegemini&logoColor=white">
 
 </div>
 
----
+## Por aquí encontrarás
 
-## 📊 GitHub stats
+Proyectos universitarios, experimentos, pequeños programas y algunas ideas que todavía están tomando forma.
 
-<div align="center">
+```text
+Estado actual:
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Josuerti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=7C3AED" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josuerti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5EEAD4" />
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Josuerti&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,35:0F766E,70:1E293B,100:0F172A&height=130&section=footer" />
+Aprendiendo        ████████████████████
+Creando            ███████████████░░░░░
+Organizando todo   ███████░░░░░░░░░░░░░
