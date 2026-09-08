@@ -50,3 +50,16 @@ const alberto = {
   proyectosTerminados: "trabajando en eso...",
   cafeDisponible: true
 };
+
+
+```
+
+### Proyectos destacados
+
+| Proyecto | Qué puedes explorar |
+|---|---|
+| [Bellman–Ford](https://github.com/Josuerti/bellman-ford-ucsg) | Caminos mínimos, pesos negativos y comparación con Dijkstra. |
+| [Transformaciones 2D](https://github.com/Josuerti/transformaciones-2d-algebra) | Matrices, composición y visualización de figuras. |
+| [Calculadora de volúmenes](https://github.com/Josuerti/calculadora-volumenes-steinmetz) | Integración numérica, análisis con Python y reportes. |
+
+[Versión web de sólidos](https://github.com/Josuerti/solidos_cvv) · [Archivo de transformaciones](https://github.com/Josuerti/Archive-TL)
